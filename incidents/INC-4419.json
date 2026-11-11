@@ -1,0 +1,10 @@
+{
+  "incident_id": "INC-4419",
+  "service": "billing-worker",
+  "severity": "SEV2",
+  "category": "performance",
+  "customer_impact": false,
+  "status": "open",
+  "detected_at": "2026-11-09T09:50:00Z",
+  "summary": "Retry storm in nightly reconciliation job"
+}

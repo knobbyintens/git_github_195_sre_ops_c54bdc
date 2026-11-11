@@ -1,0 +1,10 @@
+{
+  "incident_id": "INC-4413",
+  "service": "auth-gateway",
+  "severity": "SEV1",
+  "category": "security",
+  "customer_impact": false,
+  "status": "open",
+  "detected_at": "2026-11-10T11:30:00Z",
+  "summary": "Suspicious token replay attempts against edge"
+}

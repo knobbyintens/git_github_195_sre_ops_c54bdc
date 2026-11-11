@@ -1,0 +1,35 @@
+{
+  "rotation_week": "2026-W46",
+  "teams": {
+    "payments": {
+      "primary": "Dana Whitfield",
+      "secondary": "Marco Ruiz",
+      "paging_channel": "#payments-oncall"
+    },
+    "identity": {
+      "primary": "Priya Nair",
+      "secondary": "Tom Okafor",
+      "paging_channel": "#identity-oncall"
+    },
+    "discovery": {
+      "primary": "Liam Chen",
+      "secondary": "Sofia Petrov",
+      "paging_channel": "#discovery-oncall"
+    },
+    "messaging": {
+      "primary": "Aisha Rahman",
+      "secondary": "Ben Novak",
+      "paging_channel": "#messaging-oncall"
+    },
+    "supply": {
+      "primary": "Elena Costa",
+      "secondary": "Kai Tanaka",
+      "paging_channel": "#supply-oncall"
+    },
+    "media": {
+      "primary": "Jonas Weber",
+      "secondary": "Maya Singh",
+      "paging_channel": "#media-oncall"
+    }
+  }
+}

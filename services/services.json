@@ -1,0 +1,42 @@
+{
+  "checkout-api": {
+    "owning_team": "payments",
+    "tier": "1",
+    "codebase": "checkout-web"
+  },
+  "billing-worker": {
+    "owning_team": "payments",
+    "tier": "1",
+    "codebase": "billing-core"
+  },
+  "payments-db": {
+    "owning_team": "payments",
+    "tier": "1",
+    "codebase": "billing-core"
+  },
+  "auth-gateway": {
+    "owning_team": "identity",
+    "tier": "1",
+    "codebase": "auth-edge"
+  },
+  "search-service": {
+    "owning_team": "discovery",
+    "tier": "2",
+    "codebase": "search-index"
+  },
+  "notification-svc": {
+    "owning_team": "messaging",
+    "tier": "2",
+    "codebase": "notify-hub"
+  },
+  "inventory-svc": {
+    "owning_team": "supply",
+    "tier": "2",
+    "codebase": "inventory"
+  },
+  "media-transcoder": {
+    "owning_team": "media",
+    "tier": "3",
+    "codebase": "transcode"
+  }
+}

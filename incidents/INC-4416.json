@@ -1,0 +1,10 @@
+{
+  "incident_id": "INC-4416",
+  "service": "inventory-svc",
+  "severity": "SEV3",
+  "category": "availability",
+  "customer_impact": false,
+  "status": "closed",
+  "detected_at": "2026-11-09T18:20:00Z",
+  "summary": "Stale stock counts in warehouse cache"
+}

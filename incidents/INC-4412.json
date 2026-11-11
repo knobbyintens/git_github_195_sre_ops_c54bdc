@@ -1,0 +1,10 @@
+{
+  "incident_id": "INC-4412",
+  "service": "search-service",
+  "severity": "SEV3",
+  "category": "performance",
+  "customer_impact": false,
+  "status": "open",
+  "detected_at": "2026-11-10T15:45:00Z",
+  "summary": "Slow autocomplete responses in EU region"
+}

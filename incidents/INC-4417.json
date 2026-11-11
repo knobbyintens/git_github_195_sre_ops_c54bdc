@@ -1,0 +1,10 @@
+{
+  "incident_id": "INC-4417",
+  "service": "media-transcoder",
+  "severity": "SEV2",
+  "category": "performance",
+  "customer_impact": true,
+  "status": "open",
+  "detected_at": "2026-11-09T16:40:00Z",
+  "summary": "Video transcoding queue depth growing"
+}
